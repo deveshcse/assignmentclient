@@ -63,15 +63,15 @@ Below are screenshots of the application:
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/a4c979c5-9204-4efd-a246-c7aa22760ef6" alt="Screenshot 158" width="250"/></td>
-    <td><img src="https://github.com/user-attachments/assets/8ab48519-9a3e-4d52-82f1-7f6b37ae6c7d" alt="Screenshot 157" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/a4c979c5-9204-4efd-a246-c7aa22760ef6" alt="Screenshot 158" /></td>
+    <td><img src="https://github.com/user-attachments/assets/8ab48519-9a3e-4d52-82f1-7f6b37ae6c7d" alt="Screenshot 157" /></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/9bb61f82-9ef8-40e0-aa64-c57e4bea19d7" alt="Screenshot 156" width="250"/></td>
-    <td><img src="https://github.com/user-attachments/assets/d3224f24-987d-494a-879b-a8d13fdecd3d" alt="Screenshot 153" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9bb61f82-9ef8-40e0-aa64-c57e4bea19d7" alt="Screenshot 156" /></td>
+    <td><img src="https://github.com/user-attachments/assets/d3224f24-987d-494a-879b-a8d13fdecd3d" alt="Screenshot 153" /></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/22d46d45-19e8-41c2-9e93-eba15587841e" alt="Screenshot 159" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/22d46d45-19e8-41c2-9e93-eba15587841e" alt="Screenshot 159" /></td>
   </tr>
 </table>
 
