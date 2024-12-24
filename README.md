@@ -16,10 +16,15 @@ This client-side application is designed as part of the assignment to re-create 
 - **Styling**: TailwindCSS with optional ShadCN for enhanced UI components.
 - **API Integration**: Fetches data from Supabase and integrates seamlessly with Redux.
 
-## 🌐 Live Deployment
+## 🌐 Server Deployment
+The server-side application is live and can be accessed at:
+
+[Live API](https://assignmentserver-r6wt.onrender.com)
+
+## 🌐 Client Deployment
 The client-side application is live and can be accessed at:
 
-[Live Demo]((https://assignmentdeveshcse.netlify.app/))
+[Live Demo](https://assignmentdeveshcse.netlify.app/)
 
 ## 🚀 Getting Started
 
